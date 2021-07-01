@@ -1,0 +1,9 @@
+#preloader {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: none;
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+}
